@@ -14,3 +14,9 @@ https://user-images.githubusercontent.com/77461625/178585377-4f97a3dd-c33c-4957-
 
 
 #RESOURCES : 
+
+
+  https://doc.qt.io/qt-5/qtqml-cppintegration-interactqmlfromcpp.html
+  https://doc.qt.io/qt-5/qtqml-cppintegration-topic.html
+  https://www.youtube.com/watch?v=aV6kFxH3Xws&ab_channel=Qt
+  https://resources.qt.io/videos/get-started-creating-dynamic-uis-with-qt-design-studio-and-photoshop-on-mcus-on-demand-webinar-2
