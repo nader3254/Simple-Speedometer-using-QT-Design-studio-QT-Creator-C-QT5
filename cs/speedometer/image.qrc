@@ -1,0 +1,20 @@
+<RCC>
+<qresource prefix="/">
+   <file>./images/carspeedometer_background.png</file>
+   <file>./images/back_ground3.png</file>
+   <file>./images/left_pointer.png</file>
+   <file>./images/notift_background.png</file>
+   <file>./images/whether2.png</file>
+   <file>./images/car.png</file>
+   <file>./images/background.png</file>
+   <file>./images/f_grd1.png</file>
+   <file>./images/f_grd2.png</file>
+   <file>./images/f_grd3.png</file>
+   <file>./images/f_grd4.png</file>
+   <file>./images/f_grd5.png</file>
+   <file>./images/fuel_icon.png</file>
+   <file>./images/logo.png</file>
+   <file>./images/right_pointer.png</file>
+   <file>./images/startup.png</file>
+</qresource>
+</RCC>
